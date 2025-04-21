@@ -56,6 +56,9 @@
 <p><img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-byte&" alt="sb-byte" /></p>
 <p>&nbsp;<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=sb-byte&show_icons=true&locale=en" alt="sb-byte" /></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
 
 <h3 align="center">Thank You!❤️</h3>
 
