@@ -29,20 +29,12 @@
 
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
@@ -65,8 +57,11 @@
 <p>&nbsp;<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=sb-byte&show_icons=true&locale=en" alt="sb-byte" /></p>
 
 
-<img width=45% align="left" src="https://wakatime.com/share/@3fd5b049-1531-4290-ba56-85b2fc4b987e/1b87675c-2bba-4a34-95e6-f08277db4823.svg"/>
+<h3 align="center">Thank You!❤️</h3>
+
+<!-- <img width=45% align="left" src="https://wakatime.com/share/@3fd5b049-1531-4290-ba56-85b2fc4b987e/1b87675c-2bba-4a34-95e6-f08277db4823.svg"/>
 <img width=45% align="center" src="https://wakatime.com/share/@3fd5b049-1531-4290-ba56-85b2fc4b987e/b2eac925-e4b6-48a0-b640-69eacd3bf498.svg"/>
+-->
 
 </div>
 
