@@ -32,9 +32,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) -->
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!-- ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react) -->
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
@@ -43,7 +41,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=supabase)
-
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) -->
+<!-- ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react) -->
 ---
 
 <!-- Github Status -->
