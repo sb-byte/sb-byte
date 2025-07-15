@@ -3,13 +3,10 @@
 <img width="100%" src="https://github.com/sb-byte/Sai-Github-File/blob/main/Sai%20Github%20Page.jpg" alt="header-img" />
 </div>
 
-
 <h1 align="center">Hi , This is Sai.</h1>
 <h3 align="center">A Tech Nerd from Mumbai,India.</h3>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sb-byte&color=red&style=for-the-badge" alt="sb-byte" /> </p>
-
 
 ## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "32"> Socials
 
@@ -43,7 +40,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![Firebase](https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/supabase-000?style=for-the-badge&logo=supabase)
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 <!-- ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react) -->
 ---
 
