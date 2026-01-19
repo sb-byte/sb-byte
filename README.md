@@ -46,13 +46,13 @@
 
 <!-- Github Status -->
 
-## <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
+<!-- ## <img src='https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif' width='32'> My GitHub Stats
 
 <div align="center">
 
 
 <p><img width=45% align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-byte&" alt="sb-byte" /></p>
-<p>&nbsp;<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=sb-byte&show_icons=true&locale=en" alt="sb-byte" /></p>
+<p>&nbsp;<img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=sb-byte&show_icons=true&locale=en" alt="sb-byte" /></p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
